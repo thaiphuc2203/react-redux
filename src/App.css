@@ -1,0 +1,26 @@
+
+.br{
+  margin-bottom: 5px;
+}
+.panel-heading i {
+float: right;
+font-size: 20px;
+}
+.panel-heading i:hover{
+color: red;
+}
+.item-drop {
+    margin-left: 16px;
+}
+
+.li-drop:hover{
+   background-color:#CCCCCC;
+}
+/* .li-drop::after{
+  width:5px;
+  display: block;
+  height: 5px;
+  content: '&#129;';
+  font-family: FontAwesome;
+  background-color:#CCCCCC;
+} */
