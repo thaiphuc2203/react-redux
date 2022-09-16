@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.23.4",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "fontawesome": "^5.6.3",
     "jquery": "3.2.1",
     "json-server": "^0.15.1",
